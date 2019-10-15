@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Linux内核设计与实现]]></title>
+    <url>%2FLinux%2FLinux%E5%86%85%E6%A0%B8%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.html</url>
+    <content type="text"><![CDATA[《Linux内核设计与实现(原书第3版)》详细描述了Linux内核的设计与实现。内核代码的编写者、开发者以及程序开发人员都可以通过阅读本书受益，他们可以更好理解操作系统原理，并将其应用在自己的编码中以提高效率和生产率。 《Linux内核设计与实现(原书第3版)》详细描述了Linux内核的主要子系统和特点，包括Linux内核的设计、实现和接口。从理论到实践涵盖了Linux内核的方方面面，可以满足读者的各种兴趣和需求。 作者Robert Love是一位Linux内核核心开发人员，他分享了在开发Linux 2.6内核过程中颇具价值的知识和经验。本书的主题包括进程管理、进程调度、时间管理和定时器、系统调用接口、内存寻址、内存管理和页缓存、VFS、内核同步、移植性相关的问题以及调试技术。同时本书也涵盖了Linux 2.6内核中颇具特色的内容，包括CFS调度程序、抢占式内核、块I/O层以及I/O调度程序。 在线阅读 console.log("window.location.href is "+window.location.href) if(window.location.href.indexOf('gitee.io')>-1){ hrefUrl="/pdf/viewer.html?file=/pdf/Linux%E5%86%85%E6%A0%B8%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0(%E7%AC%AC%E4%B8%89%E7%89%88%E4%B8%AD%E6%96%87%E9%AB%98%E6%B8%85%E5%B8%A6%E7%9B%AE%E5%BD%95).pdf" } else { hrefUrl="https://demo2doc.gitee.io/reading/Linux%E5%86%85%E6%A0%B8%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0(%E7%AC%AC%E4%B8%89%E7%89%88%E4%B8%AD%E6%96%87%E9%AB%98%E6%B8%85%E5%B8%A6%E7%9B%AE%E5%BD%95).pdf" } hrefNode=document.getElementsByClassName('online-read')[0] hrefNode.setAttribute('href',hrefUrl)]]></content>
+      <categories>
+        <category>Linux</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+        <tag>内核设计与实现</tag>
+      </tags>
+  </entry>
+</search>
